@@ -2,4 +2,6 @@
 title: Resume
 permalink: /resume/
 ---
-<a href="IceJinx33.github.io/Aliva Das Resume.pdf" target="_blank">Here</a>
+
+<iframe src="./Aliva Das Resume.pdf" width="100% height=100%">
+</iframe>
