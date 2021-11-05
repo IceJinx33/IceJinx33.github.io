@@ -1,5 +1,5 @@
 <head>
   <title> Aliva Das's Website </title>
-<\head>
+</head>
 
 ## Welcome
