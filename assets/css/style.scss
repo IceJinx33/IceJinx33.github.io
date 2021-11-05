@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
+
+footer {
+  display: none;
+}
+
+#main_content_wrap {
+  background: white;
+}
